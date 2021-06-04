@@ -1,5 +1,5 @@
-﻿<p align="center">
-  <img src="Grok.png" alt="Grok" width="250"/>
+<p align="center">
+  <img src="Grok.png" alt="Grok" width="512"/>
 </p>
 
 # grok.net
